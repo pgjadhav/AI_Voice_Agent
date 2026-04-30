@@ -29,7 +29,6 @@ ai_voice_agent/
 
 
 >> MAHARSHI ACCOUNT
-GEMINI_API = "AIzaSyA6UF1UG-o5F0bYUONFMn__BnoMsOay0cs"
 NAME : Voice_Agent_Api
 
 
