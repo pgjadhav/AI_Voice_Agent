@@ -1,0 +1,7 @@
+*.voice_agent.zip
+*.env
+*.README.md
+*.test_rag.py
+*.test_tts.py
+*.voice_agent.py
+*.venv

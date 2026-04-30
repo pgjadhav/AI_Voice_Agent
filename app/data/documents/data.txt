@@ -1,0 +1,268 @@
+# AI Voice Recruiter Assistant – RAG Knowledge Base
+
+**Candidate:** Prashant Ganesh Jadhav
+
+---
+
+# 🧠 1. PERSONAL INTRODUCTION
+
+Prashant Ganesh Jadhav is a Data Scientist with over 4 years of experience in Python, Machine Learning, and AI systems. He has strong expertise in regression and classification problems using algorithms such as Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, and AdaBoost.
+
+He also has hands-on experience in Deep Learning, Time Series Forecasting, NLP, and Generative AI, including RAG-based architectures.
+
+Currently working at Let’s Enkindle, he focuses on building scalable AI solutions, automation pipelines, and data-driven products that solve real-world business problems.
+
+---
+
+# 💼 2. PROFESSIONAL EXPERIENCE
+
+## Data Scientist – Let’s Enkindle (2024 – Present)
+
+* Performed time series analysis on large-scale datasets
+* Built forecasting models using Prophet, ARIMA, SARIMA, Exponential Moving Average, and LSTM
+* Developed data-driven solutions for business decision-making
+* Collaborated with cross-functional teams
+* Continuously improved and retrained models using new data
+
+---
+
+## Data Scientist – Let’s Nurture (2021 – 2024)
+
+* Analyzed large datasets to identify patterns and trends
+* Built machine learning models including regression, classification, and neural networks
+* Designed data visualization dashboards to communicate insights
+* Worked with teams to deliver AI-driven solutions
+
+---
+
+# 🚀 3. KEY PROJECT – AI VERIFICATION SYSTEM
+
+## Problem
+
+A pharmaceutical company received more than 13,000 monthly reports from 100+ super stockists across 9 divisions.
+
+Challenges:
+
+* Data came in multiple formats (PDF, scanned images, CSV, Excel, JPEG, PNG)
+* No standardized structure
+* Manual verification required 10–12 days
+* Required a team of 10–12 people
+* High risk of human error
+
+---
+
+## Solution
+
+Designed and built an AI-powered automation system to process and verify stock reports.
+
+Key Components:
+
+* Multi-format data ingestion pipeline
+* Data extraction from PDFs and scanned images
+* Schema standardization and normalization
+* Automated comparison engine
+
+Technology Used:
+
+* Gemini API for intelligent document parsing
+* Python for data processing and pipeline development
+
+---
+
+## Key Features
+
+* Automated extraction from unstructured documents
+* Conversion into standardized structured format
+* Data normalization across divisions
+* Intelligent comparison with master data
+* Detection of mismatches:
+
+  * Product mismatch
+  * Division mismatch
+  * Missing entries
+
+---
+
+## Impact
+
+* Reduced manual effort significantly
+* Improved verification accuracy
+* Reduced processing time drastically
+* Enabled scalable automation for large datasets
+
+---
+
+# 🧠 4. TECHNICAL SKILLS
+
+## Programming
+
+* Python, SQL
+
+## Machine Learning
+
+* Regression, Classification, Ensemble Models
+* Decision Trees, Random Forest, XGBoost
+
+## Deep Learning
+
+* ANN, LSTM
+
+## Time Series
+
+* ARIMA, SARIMA, Prophet, Exponential Moving Average
+
+## NLP & Generative AI
+
+* RAG systems
+* LLM integration
+* Prompt engineering
+* Text processing
+
+## Tools & Platforms
+
+* AWS, Power BI, Snowflake, GitHub
+* Flask, FastAPI, Streamlit
+
+## Databases
+
+* MySQL, MongoDB
+
+---
+
+# 📊 5. PROJECTS
+
+## NLP-to-SQL using RAG
+
+### Problem
+
+Client required a system where users could ask questions in natural language and receive analytical results by querying a database.
+
+### Solution
+
+* Built a system that converts natural language into SQL queries using a fine-tuned SQLCoder model
+* Implemented schema-aware retrieval and vector search
+* Applied prompt engineering to reduce hallucinations
+* Integrated system with real databases for automated querying
+
+### Impact
+
+* Eliminated need for manual SQL writing
+* Enabled business users to access insights directly
+* Improved query accuracy using RAG
+
+---
+
+## AI Chatbot (RAG-based)
+
+### Problem
+
+Client required an intelligent chatbot for customer interaction and information delivery.
+
+### Solution
+
+* Built a conversational AI chatbot with contextual understanding
+* Implemented full RAG pipeline with vector search and prompt engineering
+* Enabled multi-turn conversations
+
+### Impact
+
+* Improved customer engagement
+* Provided accurate and dynamic responses
+* Reduced manual customer support workload
+
+---
+
+## Time Series Forecasting Projects
+
+### Problem
+
+Manufacturing clients required price forecasting for procurement and sales planning.
+
+### Solution
+
+* Built forecasting models for multiple products:
+
+  * Allyl Chloride
+  * Coal
+  * N-Propanol
+  * Sulphur
+* Used ARIMA, SARIMA, Prophet, and LSTM
+
+### Impact
+
+* Provided 3-month price forecasts
+* Helped businesses optimize procurement strategies
+* Improved market competitiveness
+
+---
+
+## Machine Failure Prediction
+
+* Built classification models to predict machine failures
+* Used multiple machine learning algorithms
+* Improved maintenance planning and reduced downtime
+
+---
+
+# 🎯 6. INTERVIEW QUESTION & ANSWERS
+
+## Tell me about yourself
+
+I am a Data Scientist with over 4 years of experience in machine learning, specializing in regression and classification problems. I have worked with various algorithms such as Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, and AdaBoost.
+
+I also have experience in time series forecasting, NLP, and AI-driven automation. One of my key projects involved building an AI-based verification system that automated the processing of over 13,000 reports monthly.
+
+I enjoy solving real-world problems using data and have hands-on experience in building end-to-end AI systems from development to cloud deployment.
+
+---
+
+## Why should we hire you?
+
+I bring a strong combination of technical expertise and practical experience in building real-world AI systems. I have worked on large-scale data processing, automation pipelines, and end-to-end AI solutions.
+
+I am adaptable, quick to learn, and focused on delivering impactful results. I also have experience working with cross-functional teams, which helps in aligning technical solutions with business needs.
+
+---
+
+## Explain your most challenging project
+
+One of my most challenging projects was developing an AI-based stock verification system. The main challenge was handling unstructured data from thousands of reports in different formats.
+
+I used the Gemini API to extract structured data and built a normalization and comparison pipeline. This significantly improved efficiency, reduced manual effort, and increased accuracy.
+
+---
+
+## What are your career goals?
+
+My goal is to grow as an AI/ML engineer and work on advanced systems involving LLMs, RAG, and real-time AI applications.
+
+I am particularly interested in building scalable AI products that solve real business problems and create measurable impact.
+
+---
+
+# ⚠️ 7. ADDITIONAL PERSONAL CONTEXT
+
+## Strengths
+
+* Self-motivated and focused
+* Strong problem-solving skills
+* Ability to work on end-to-end systems
+
+## Leadership Experience
+
+* Led a team of 4 members
+* Managed task distribution and delivery
+
+## Challenges Faced
+
+* Handling multiple unstructured file formats
+* Designing standardized pipelines
+* Fine-tuning models on custom datasets
+
+## Why AI / Data Science
+
+Interest in automation, rapid growth of AI, and solving complex real-world problems using data.
+
+---
+
+# ✅ END OF DOCUMENT
