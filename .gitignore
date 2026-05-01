@@ -5,3 +5,4 @@ test_rag.py
 test_tts.py
 voice_agent.py
 venv/
+frontend/
