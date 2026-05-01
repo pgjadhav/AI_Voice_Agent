@@ -1,14 +1,11 @@
 fastapi==0.136.1
 uvicorn==0.30.6
-
 langchain==0.2.15
 langchain-community==0.2.15
 langchain-core==0.2.38
 langchain-google-genai==1.0.10
-
 sentence-transformers==2.7.0
 faiss-cpu==1.7.4
-
 pydantic==2.7.4
 python-dotenv==1.0.1
 requests==2.32.3
