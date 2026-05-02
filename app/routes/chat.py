@@ -1,7 +1,7 @@
 from fastapi import APIRouter
-from app.services.rag_service import retrieve_context
-from app.services.llm_service import get_llm_response
-from app.core.prompts import SYSTEM_PROMPT
+from services.rag_service import retrieve_context
+from services.llm_service import get_llm_response
+from acore.prompts import SYSTEM_PROMPT
 from pydantic import BaseModel
 
 class QueryRequest(BaseModel):

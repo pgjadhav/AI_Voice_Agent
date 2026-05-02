@@ -1,6 +1,6 @@
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from app.core.embeddings import embedding_model
+from core.embeddings import embedding_model
 # embedding_model = HuggingFaceEmbeddings(
 #     model_name="sentence-transformers/all-MiniLM-L6-v2"
 # )

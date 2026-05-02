@@ -1,6 +1,6 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
-from app.core.config import GEMINI_API_KEY
-from app.core.cache import get_from_cache, save_to_cache
+from core.config import GEMINI_API_KEY
+from core.cache import get_from_cache, save_to_cache
 
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash-lite",
